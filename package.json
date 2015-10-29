@@ -1,6 +1,6 @@
 {
   "name": "uup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple version of mup (Meteor UP) that doesn't run as a root",
   "dependencies": {
     "async": "^0.9.0",
