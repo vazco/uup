@@ -11,7 +11,7 @@
   ],
 
   // Add nginx virtual host to sites-enabled on setup
-  "nginx": true
+  "nginx": true,
 
   // Application name (No spaces)
   "appName": "myapp",
