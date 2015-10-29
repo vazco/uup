@@ -1,7 +1,7 @@
 {
-  "name": "mup",
-  "version": "0.11.3",
-  "description": "Production Quality Meteor Deployments",
+  "name": "uup",
+  "version": "1.0.0",
+  "description": "non-sudo, simple version of mup (Meteor UP)",
   "dependencies": {
     "async": "^0.9.0",
     "cjson": "0.3.x",
@@ -13,12 +13,12 @@
     "archiver": "0.14.x"
   },
   "bin": {
-    "mup": "./bin/mup"
+    "uup": "./bin/uup"
   },
-  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "author": "Maciek Stasieluk <macrusher@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/meteor-up.git"
+    "url": "git://github.com/vazco/uup.git"
   },
   "license": "MIT"
 }

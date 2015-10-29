@@ -1,0 +1,31 @@
+{
+  // Server authentication info
+  "servers": [
+    {
+      "host": "hostname",
+      "username": "ubuntu",
+      "password": "password"
+      // or pem file (ssh based authentication)
+      //"pem": "~/.ssh/id_rsa"
+    }
+  ],
+
+  // Add nginx virtual host to sites-enabled on setup
+  "nginx": true
+
+  // Application name (No spaces)
+  "appName": "myapp",
+
+  // Location of app (local directory)
+  "app": ".",
+
+  // Configure environment
+  "env": {
+    "ROOT_URL": "http://myapp.com",
+    "PORT": 8000
+  },
+
+  // Meteor Up checks if the app comes online just after the deployment
+  // before mup checks that, it will wait for no. of seconds configured below
+  "deployCheckWaitTime": 15
+}
