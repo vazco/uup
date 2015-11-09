@@ -19,6 +19,9 @@
   // Location of app (local directory)
   "app": ".",
 
+  // Extra arguments passed to meteor build
+  "buildArgs": "--architecture server",
+
   // Configure environment
   "env": {
     "PORT": 8000,
