@@ -189,7 +189,7 @@ Sometimes, you might be using `mrt`, or Meteor from a git checkout. By default, 
 
     uup logs -f
 
-Mup can tail logs from the server and supports all the options of `tail`.
+Uup can tail logs from the server and supports all the options of `tail`.
 
 ### Reconfiguring & Restarting
 
