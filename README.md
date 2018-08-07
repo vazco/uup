@@ -1,6 +1,14 @@
-## Abandonware
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Universe UP (uup)
+</h1>
 
-# UniverseUP (uup)
+&nbsp;
+
+<h3 align="center">
+  -- Abandonware. This package is deprecated! --
+</h3>
+
+&nbsp;
 
 This is a fork of [Meteor UP (mup)](https://github.com/arunoda/meteor-up).
 All credit for the hard work should go to Arunoda and Kadira team.
@@ -282,3 +290,9 @@ Fortunately, Meteor Up **will take care** of that job for you and it will detect
 * [Using Meteor Up with Nitrous.io](https://github.com/arunoda/meteor-up/wiki/Using-Meteor-Up-with-Nitrous.io)
 * [Change Ownership of Additional Directories](https://github.com/arunoda/meteor-up/wiki/Change-Ownership-of-Additional-Directories)
 * [Using Meteor Up with NginX vhosts](https://github.com/arunoda/meteor-up/wiki/Using-Meteor-Up-with-NginX-vhosts)
+
+### License
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe UP (uup) is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
